@@ -12,7 +12,7 @@
 
 + 查询考试信息：
 终端复制过来pandas格式有点乱掉
-```bash
+```
 lyutoon@LAPTOP-RNTVE1OO:/mnt/f/mycode/playground/shanghaitech$ python3 score.py 
                           _          _                 
                          | |        | |                
