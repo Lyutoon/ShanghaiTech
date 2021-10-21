@@ -27,7 +27,7 @@ which: 针对期中考试设计，有些课有两次期中，第二次期中whic
 ```
 终端复制过来pandas格式有点乱掉
 ```bash
-lyutoon@LAPTOP-RNTVE1OO:/mnt/f/mycode/playground/shanghaitech$ python3 score.py 
+lyutoon@LAPTOP-RNTVE1OO:/mnt/f/mycode/playground/shanghaitech$ python3 exam.py 
                           _          _                 
                          | |        | |                
   _____  ____ _ _ __ ___ | |__   ___| |_ __   ___ _ __ 
