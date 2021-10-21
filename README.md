@@ -11,17 +11,19 @@
 + 自动登录egate:
 ```python
 login(studentid, password)
-返回一个session
+# 返回一个session
 ```
 + 查询考试信息：
 ```python
 getExamInfo(year, semester, target_exam, tag, redirectid, which=1)
+"""
 year: 学期开始的年份
 semester: 第几学期 (暂时不支持暑学期)
 target_exam: 期中考试/期末考试
 tag: 这学期你选了哪门课(任意一门课程代码即可)
 redirectid: 每个人有自己的id，可以在我的考试url里看到
 which: 针对期中考试设计，有些课有两次期中，第二次期中which=2
+"""
 ```
 终端复制过来pandas格式有点乱掉
 ```bash
